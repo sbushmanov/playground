@@ -6,6 +6,7 @@ output: html_document
 ---
 
 
+# Header id="top"
 
 1. Создать репозиторий в GitHub
 2. Создать проект в RStudio
@@ -45,3 +46,13 @@ git branch gh-pages
 file.create(".nojekyll")
 ```
 
+[go to top](#top)
+
+```r
+x <- function(x) {
+        return(x)
+}
+```
+
+- [ ] item 1
+- [x] item 2
