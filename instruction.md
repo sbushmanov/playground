@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-# Header {id="top"}
+<h1 id="top"> Header</h1>
 
 1. Создать репозиторий в GitHub
 2. Создать проект в RStudio
