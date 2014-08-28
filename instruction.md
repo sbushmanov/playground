@@ -39,7 +39,7 @@ git branch gh-pages
 # конец добавить
 ```
 
-6. Создать файл .`nojekyll` в корне рабочей директории[^hui] :
+6. Создать файл .`nojekyll` в корне рабочей директории:
 
 
 ```r
@@ -57,7 +57,6 @@ x <- function(x) {
 - [ ] item 1
 - [x] item 2
 
-[^hui]: this is footnote
 
 |header 1 cell| header 2 cell|
 |:------|--------:|
